@@ -3,7 +3,7 @@
 
 English
 - This application written in Bash Script helps exchange easily between many static IP Adresses and DHCP.
-- Allows to customize in a different file the disired IP adresses and Interface name;
+- Allows to customize in a different file the disired IP adresses and Interface names;
 - Tested on Windows 10;
 
 Portuguese
